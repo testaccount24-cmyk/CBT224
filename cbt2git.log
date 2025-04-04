@@ -1,0 +1,6 @@
+2025-04-04 06:18:57.696599 - Received CBT.V508.FILE224.PDS from FILE224.XMI 
+2025-04-04 06:18:57.697277 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE224.PDS, moved to PDS/$$$#DATE
+2025-04-04 06:18:57.697417 - Found $SAMPLES.txt (text/plain) in CBT.V508.FILE224.PDS, moved to PDS/$SAMPLES
+2025-04-04 06:18:57.697553 - Found @FILE224.txt (text/plain) in CBT.V508.FILE224.PDS, moved to PDS/@FILE224
+2025-04-04 06:18:57.697713 - Found ITMSJOB.bin (application/octet-stream) in CBT.V508.FILE224.PDS, moved to PDS/ITMSJOB
+2025-04-04 06:18:57.697856 - Found ITMSPRT.bin (application/octet-stream) in CBT.V508.FILE224.PDS, moved to PDS/ITMSPRT
